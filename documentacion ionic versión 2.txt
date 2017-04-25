@@ -1,0 +1,8 @@
+código:
+Para crear una nueva página:
+
+
+ionic generate page "aquí va el nombre de la página"
+ionic g page "aquí va el nombre de la página" para crear una nueva página.
+
+
